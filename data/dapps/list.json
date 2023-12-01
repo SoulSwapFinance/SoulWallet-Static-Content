@@ -122,23 +122,5 @@
         "categories": [
             "news"
         ]
-    },
-    {
-        "id": 5,
-        "title": "dotinsights",
-        "description": "A trusted research hub and data platform of Polkadot & Kusama Ecosystem made by SubWallet",
-        "url": "https://dotinsights.subwallet.app/",
-        "subtitle": "Interactive Polkadot & Kusama Ecosystem Map",
-        "is_substrate": true,
-        "is_evm": true,
-        "is_featured": false,
-        "ordinal": 6,
-        "icon": "https://static-data.subwallet.app/dapps/images/icon/dotinsights_367a459604.png",
-        "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/dotinsight_1d624aa8ec.jpg",
-        "chains": [],
-        "categories": [
-        "utilities",
-        "data"
-        ]
     }
 ]
