@@ -1,41 +1,41 @@
 [
   {
-    "id": 1,
+    "ordinal": 1,
     "slug": "defi",
     "name": "DEFI",
     "color": "cyan",
     "description": null
   },
   {
-    "id": 2,
+    "ordinal": 2,
     "slug": "nft",
     "name": "NFT",
     "color": "magenta",
     "description": null
   },
   {
-    "id": 3,
+    "ordinal": 3,
     "slug": "soul",
     "name": "SOUL",
     "color": "purple",
     "description": null
   },
   {  
-    "id": 4,
+    "ordinal": 4,
     "slug": "utilities",
     "name": "UTILITIES",
     "color": "orange",
     "description": null
   },
   {  
-    "id": 5,
+    "ordinal": 5,
     "slug": "games",
     "name": "GAMES",
     "color": "yellow",
     "description": null
   },
   {  
-    "id": 6,
+    "ordinal": 6,
     "slug": "news",
     "name": "NEWS",
     "color": "blue",
