@@ -1,100 +1,44 @@
 [
   {
     "id": 1,
-    "slug": "dex",
-    "name": "Dex",
+    "slug": "DEFI",
+    "name": "DEFI",
     "color": "cyan",
     "description": null
   },
   {
     "id": 2,
-    "slug": "nft",
+    "slug": "NFT",
     "name": "NFT",
-    "color": "primary",
+    "color": "magenta",
     "description": null
   },
   {
     "id": 3,
-    "slug": "evm",
-    "name": "EVM",
-    "color": "magenta",
-    "description": null
-  },
-  {
-    "id": 4,
-    "slug": "community",
-    "name": "Community",
-    "color": "volcano",
-    "description": null
-  },
-  {
-    "id": 5,
-    "slug": "utilities",
-    "name": "Utilities",
-    "color": "orange",
-    "description": null
-  },
-  {
-    "id": 6,
-    "slug": "crowdloans",
-    "name": "Crowdloans",
-    "color": "blue",
-    "description": null
-  },
-  {
-    "id": 7,
-    "slug": "staking",
-    "name": "Staking",
-    "color": "geekblue",
-    "description": null
-  },
-  {
-    "id": 8,
-    "slug": "tooling",
-    "name": "Tooling",
-    "color": "red",
-    "description": null
-  },
-  {
-    "id": 9,
-    "slug": "data",
-    "name": "Data",
-    "color": "green",
-    "description": null
-  },
-  {
-    "id": 10,
-    "slug": "rwa",
-    "name": "RWA",
+    "slug": "SOUL",
+    "name": "SOUL",
     "color": "purple",
     "description": null
   },
-  {
-    "id": 11,
-    "slug": "socialfi",
-    "name": "SocialFi",
-    "color": "lime",
+  {  
+    "id": 4,
+    "slug": "UTILITIES",
+    "name": "UTILITIES",
+    "color": "orange",
     "description": null
   },
-  {
-    "id": 12,
-    "slug": "governance",
-    "name": "Governance",
-    "color": "magenta",
+  {  
+    "id": 5,
+    "slug": "GAMES",
+    "name": "GAMES",
+    "color": "yellow",
     "description": null
   },
-  {
-    "id": 14,
-    "slug": "smart contract",
-    "name": "Smart Contract",
-    "color": "success",
+  {  
+    "id": 6,
+    "slug": "NEWS",
+    "name": "NEWS",
+    "color": "blue",
     "description": null
   },
-  {
-    "id": 15,
-    "slug": "bridge",
-    "name": "Bridge",
-    "color": "warning",
-    "description": null
-  }
 ]
