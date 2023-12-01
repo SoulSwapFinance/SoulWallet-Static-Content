@@ -131,7 +131,7 @@
         "subtitle": "Interactive Polkadot & Kusama Ecosystem Map",
         "is_substrate": true,
         "is_evm": true,
-        "is_featured": true,
+        "is_featured": false,
         "ordinal": 6,
         "icon": "https://static-data.subwallet.app/dapps/images/icon/dotinsights_367a459604.png",
         "preview_image": "https://static-data.subwallet.app/dapps/images/preview_image/dotinsight_1d624aa8ec.jpg",
